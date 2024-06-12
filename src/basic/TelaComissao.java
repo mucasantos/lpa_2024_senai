@@ -50,12 +50,7 @@ public class TelaComissao implements ActionListener{
 		JButton btnCalcular = new JButton("Calcular");
 		JButton btnCancel = new JButton("Cancelar");
 		
-		panel.add(textNome);
-		panel.add(fieldNome);
-		panel.add(textVendas);
-		panel.add(fieldVendas);
-		panel.add(textComissao);
-		panel.add(textBranco);
+	
 		
 		panel.add(radioUm);
 		panel.add(radioDois);
